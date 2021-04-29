@@ -6,8 +6,8 @@ index.html
 evento01.html
 
 css:
-index-style.html
-evento01.html
+index-style.css
+evento01.csss
 
 
 imagenes:
